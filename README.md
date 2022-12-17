@@ -1,16 +1,19 @@
-### Hi there 👋
+🙋‍♂️ I'm Jeremy, a self-taught data analyst.
 
-<!--
-**jeremyraby/jeremyraby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ About Me in 30 Secs ✨
+- 🧑‍🏫 Teacher turned data analyst
+- 📊 Transition to data since **November 2022**
+- 📝 Taught myself SQL, Excel
 
-Here are some ideas to get you started:
+### ⚡️ Currently ⚡️
+- 👨‍💻 Furthering my abilities with SQL
+- 🌱 Learning Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jeremy-raby/)
+
+### 📚 About Me in More Than 30 Secs
+
+I have been working in public health for five years, and I am now planning a transition into remote data analytics. Although successful in my sanitarian career, I have realized the aspects of my work I find most rewarding are all in data-related functions. In order to further these pursuits I have recently completed Google's [Data Analytics Professional Certification](https://www.credly.com/badges/ba29f2b0-aa38-4fea-88ff-939849fd5686/linked_in_profile), several courses on [Codecademy](https://www.codecademy.com/profiles/jeremyraby), and am building a project portfolio to document my learning. Check back often as I'm adding repos left and right!
+
+I'm currently seeking opportunities in data analytics, so if you'd like to work together, feel free to connect via LinkedIn or contact me directly at jeremy.r.raby@gmail.com!
