@@ -9,6 +9,11 @@
 - 👨‍💻 Furthering my abilities with SQL
 - 🌱 Learning [Tableau](https://public.tableau.com/app/profile/jeremyraby)
 
+### ❤️ Fav Repos ❤️
+- [SQL Murder Mystery](https://github.com/jeremyraby/murderMystery)
+- [Decision Matrix](https://github.com/jeremyraby/decisionMatrix)
+- [Meal Plan Generator](https://github.com/jeremyraby/meal_plan_generator)
+
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jeremy-raby/)
 
