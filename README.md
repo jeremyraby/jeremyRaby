@@ -16,7 +16,6 @@
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jeremy-raby/)
-- [Tableau Portfolio](https://public.tableau.com/app/profile/jeremyraby)
 
 ### 📚 About Me in More Than 10 Secs
 
