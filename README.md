@@ -10,7 +10,7 @@
 - 🌱 Learning [Tableau](https://public.tableau.com/app/profile/jeremyraby)
 
 ### ❤️ Fav Repos ❤️
-- [Deep Dive into Restaurant Inspections: Analyzing Food Safety Trends in King County, WA](https://github.com/jeremyraby/murderMystery)
+- [Deep Dive into Restaurant Inspections: Analyzing Food Safety Trends in King County, WA]([https://github.com/jeremyraby/murderMystery](https://github.com/jeremyraby/kingCountyFoodInspections))
 - [Decision Matrix](https://github.com/jeremyraby/decisionMatrix)
 - [Meal Plan Generator](https://github.com/jeremyraby/meal_plan_generator)
 
