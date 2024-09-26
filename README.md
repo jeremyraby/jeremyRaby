@@ -17,6 +17,7 @@
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jeremy-raby/)
+- View my [resume](https://github.com/jeremyraby/resume)
 
 ### 📚 About Me in More Than 10 Secs
 
